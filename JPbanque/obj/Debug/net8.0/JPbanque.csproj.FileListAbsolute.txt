@@ -1,0 +1,14 @@
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.AssemblyInfoInputs.cache
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.AssemblyInfo.cs
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.csproj.CoreCompileInputs.cache
+C:\Bacinfo\Poo\JPbanque\bin\Debug\net8.0\JPbanque.exe
+C:\Bacinfo\Poo\JPbanque\bin\Debug\net8.0\JPbanque.deps.json
+C:\Bacinfo\Poo\JPbanque\bin\Debug\net8.0\JPbanque.runtimeconfig.json
+C:\Bacinfo\Poo\JPbanque\bin\Debug\net8.0\JPbanque.dll
+C:\Bacinfo\Poo\JPbanque\bin\Debug\net8.0\JPbanque.pdb
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.dll
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\refint\JPbanque.dll
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.pdb
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\JPbanque.genruntimeconfig.cache
+C:\Bacinfo\Poo\JPbanque\obj\Debug\net8.0\ref\JPbanque.dll
